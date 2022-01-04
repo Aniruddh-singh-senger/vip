@@ -1,0 +1,13 @@
+.input {
+  width: 70%;
+  height: 50%;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+display: flex;
+ justify-content: center;
+ align-items: center;
+ background: rgb(214, 209, 209);
+ color: #8184a1;
+}
